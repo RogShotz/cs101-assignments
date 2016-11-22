@@ -27,8 +27,21 @@ int example08() {
 	return 0;
 }
 
-int main() {
+int example15() {
 
-	example08();
+	int y = 2;
+	int n;
+
+	std::cout << "Input a number to see if it is a prime: ";
+	std::cin >> n;
+	if (n % y == 0) {
+		std::cout << n << " is not a prime";
+	} else {
+		std::cout << n << " is a prime";
+	}
+	return 0;
+}
+
+int main() { //used for testing the functions
 
 }
