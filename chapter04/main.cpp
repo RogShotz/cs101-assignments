@@ -1,18 +1,4 @@
 /*
- * excercise08.cpp
- *
- *  Created on: Nov 22, 2016
- *      Author: rogshotz
- */
-
-/*
- * main.cpp
- *
- *  Created on: Nov 22, 2016
- *      Author: rogshotz
- */
-
-/*
  * main.cpp
  *
  *  Created on: Nov 22, 2016
