@@ -35,10 +35,9 @@ int example08() {
 		square++;
 	}
 
-	std::cout << "You used " << square << " square and redeemed " << grain
-			<< " rice grains.";
+	std::cout << "You used "<< square << " square and redeemed " << grain << " rice grains.";
 
-	return 0;
+return 0;
 }
 
 int main() {
@@ -46,3 +45,7 @@ int main() {
 	example08();
 
 }
+
+
+
+
