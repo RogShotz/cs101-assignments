@@ -5,4 +5,5 @@
 Debug/
 Release/
 RemoteSystemsTempFiles/
-makefile
+makefile*
+
